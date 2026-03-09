@@ -46,7 +46,7 @@ TP-JavaScript/
 | Ex-3.js    | Classement de trois nombres                                 |
 | Ex-4.js    | Affichage d’un triangle avec `while` et `for`               |
 | Ex-5.js    | Test si un nombre est premier                               |
-| Ex-6.js    | Calcul du n-ième terme de Fibonacciet  Recherche du premier terme Fibonacci supérieur à une valeur                         |
+| Ex-6.js    | Calcul du n-ième terme de Fibonacci et  Recherche du premier terme Fibonacci supérieur à une valeur                         |
 | Ex-7.js    | Approximation de la racine carrée (méthode de Newton)       |
 
 ---
@@ -103,20 +103,6 @@ Ordre croissant : 10 14 17
 
 ---
 
-### Exercice 5
-
-```
-premier(7)
-```
-
-Résultat :
-
-```
-7 est un nombre premier
-```
-
----
-
 ### Exercice 4
 
 ```
@@ -134,13 +120,28 @@ Résultat :
 ```
 
 ---
+### Exercice 5
+
+```
+premier(7)
+```
+
+Résultat :
+
+```
+7 est un nombre premier
+```
+
+---
+
+
 
 # Démonstration
 
 Les captures suivante montre un exemple d’exécution dans la console du navigateur.
 
-![Demo](\Figures\demo.png)
-![Demo](\Figures\demo1.png)
+![Demo](Figures/demo.png)
+![Demo](Figures/demo1.png)
 
 ---
 
